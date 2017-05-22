@@ -11,3 +11,5 @@ http://polyglot.readthedocs.io/en/latest/
 * Transliteration
 
 Easy to use but the accuracy is not the best, speciall for Named Entity Recognition.
+
+--
