@@ -1,6 +1,6 @@
 # awesome-Portuguese-NLP
 
-http://polyglot.readthedocs.io/en/latest/
+[Polyglot](http://polyglot.readthedocs.io/en/latest/)
 
 * Tokenization
 * Named Entity Recognition
@@ -12,4 +12,4 @@ http://polyglot.readthedocs.io/en/latest/
 
 Easy to use but the accuracy is not the best, speciall for Named Entity Recognition.
 
---
+---
